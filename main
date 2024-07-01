@@ -1,9 +1,1 @@
-"javascript:(function() {
-    var links = document.getElementsByTagName('a');
-    for (var i = 0; i < links.length; i++) {
-        if (links[i].rel.includes('nofollow')) {
-            links[i].style.backgroundColor = 'yellow';
-        }
-    }
-})();
-"
+
