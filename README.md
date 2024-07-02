@@ -1,4 +1,4 @@
-# Chrome Bookmarklets for SEO
+# SEO Bookmarklets for Google Chrome
 
 ## highlight no follow links	
 `
